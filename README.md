@@ -261,31 +261,6 @@ tropical year than the 365.2425 days of the Gregorian calendar.</p>
 calendar. In the years between AP&nbsp;1244 and 1531 (AD&nbsp;1865 and 2152) a discrepancy of one
 day is seen twice, namely in AP&nbsp;1404 and 1437 (starting at vernal equinox of AD&nbsp;2025 and
 2058). However, outside this period, discrepancies are more frequent.</p>
-
-<hr>
-<div class="navigationblock">
-  <div class="navleft">
-    <a title="The Islamic Calendar" href="islamic.php">
-      <span id="goleft"><img id="left1" alt="Left" src="images/left.png"><img class="invisible" id="left2" alt="Left" src="images/left2.png"></span>
-    </a>
-    <br>
-    <a href="islamic.php">The Islamic Calendar</a>
-  </div>
-  <div class="navcenter">
-    <a title="Up" href="../calendar.html">
-      <span id="goup"><img id="up1" alt="Up" src="images/up.png"><img class="invisible" id="up2" alt="Up" src="images/up2.png"></span>
-    </a>
-    <br>
-    <a href="../calendar.html">Up</a>
-  </div>
-  <div class="navright">
-    <a title="The Week" href="week.php">
-      <span id="goright"><img id="right1" alt="Right" src="images/right.png"><img class="invisible" id="right2" alt="Right" src="images/right2.png"></span>
-    </a>
-    <br>
-    <a href="week.php">The Week</a>
-  </div>
-</div>
          </div>
          
 ---------
