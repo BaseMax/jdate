@@ -121,7 +121,7 @@ astronomical vernal equinox falls after noon, the following day is the first day
 
 <h2><a name="count">How does one count years?</a></h2>
 
-<p> As in the Islamic calendar, years are counted since <a href="islamic.php#count">Mohammed’s
+<p> As in the Islamic calendar, years are counted since <a href="#count">Mohammed’s
 emigration to Medina</a> in AD&nbsp;622. At vernal equinox of that year, AP&nbsp;1 started (AP =
 Anno Persico/Anno Persarum = Persian year).</p>
 
