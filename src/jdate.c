@@ -25,6 +25,13 @@ typedef struct {
 	char *dayName;
 } date;
 
+#ifndef bool
+typedef enum {
+	false,
+	true,
+} bool;
+#endif
+
 bool isLeapYear(int year){
 	return year%4==3 ? true : false;
 }
