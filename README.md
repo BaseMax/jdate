@@ -2,6 +2,12 @@
 
 A free software for Jalali and shamsi date to get current date in jalali calendar.
 
+## Features
+
+- Convert date to jalali, shamsi calendar and getting current date
+- Getting name of days (day of week)
+- Getting name of months
+
 ---------
 
 # Max Base
