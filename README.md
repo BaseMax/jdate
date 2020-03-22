@@ -36,19 +36,7 @@ It will use `$ date` if you pass `--auto` argument.
 
 <div id="maintext">
 
-           <!--[if lt IE 8]>
-           <h3 style="margin: 0 20px 20px 20px; background-color: #ffd0d0; border:solid 1px black;">Warning: You are using an old version of Internet Explorer. These pages are best viewed with the latest version of Internet Explorer.</h3>
-           <![endif]--><h1>The Persian Calendar</h1>
-<img id="topimg" alt="" style="padding:10px 0 0 25px;" src="calpic/khayyam.jpg">
-<div class="subsections">
-  <p><a name="CHILD_LINKS"><strong>Subsections</strong></a></p>
-  <ul>
-<li><a href="persian.php#look">What does a Persian year look like?</a></li>
-<li><a href="persian.php#begin">When does the Persian year begin?</a></li>
-<li><a href="persian.php#count">How does one count years?</a></li>
-<li><a href="persian.php#leap">What years are leap years?</a></li>
-  </ul>
-</div>
+<h1>The Persian Calendar</h1>
 
 <p>The Persian calendar is a solar calendar with a starting point that matches that of the Islamic
 calendar. Apart from that, the two calendars are not related. The origin of the Persian calendar can
