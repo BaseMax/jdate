@@ -8,6 +8,30 @@ A free software for Jalali and shamsi date to get current date in jalali calenda
 - Getting name of days (day of week)
 - Getting name of months
 
+## Using
+
+#### $ jdate --auto
+```
+1399/1/3 - فروردين - يکشنبه
+```
+
+#### $ jdate 2020 03 22
+```
+1399/1/3 - فروردين - يکشنبه
+```
+
+## Compiling
+
+```
+$ cd src/
+$ gcc jdate.c -o jdate -O3
+$ move jdate /usr/bin/
+```
+
+## Dependencies
+
+It will use `$ date` if you have `--auto` argument.
+
 ---------
 
 # Max Base
