@@ -30,7 +30,7 @@ $ move jdate /usr/bin/
 
 ## Dependencies
 
-It will use `$ date` if you have `--auto` argument.
+It will use `$ date` if you pass `--auto` argument.
 
 ---------
 
