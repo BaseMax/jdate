@@ -14,6 +14,15 @@
 #include <stdlib.h>
 #include <string.h>
 
+void check(int year, int month, int day) {
+}
+
 int main(int argc, char** argv) {
+	if(argc > 3) {
+		check(atoi(argv[1]), atoi(argv[2]), atoi(argv[3]));
+	}
+	else if(argc == 2 && strcmp(argv[1], "--auto") == 0) {
+		check(atoi(execute("date '+\%Y'")), atoi(execute("date '+\%m'")), atoi(execute("date '+\%d'")));
+	}
 	return 0;
 }
